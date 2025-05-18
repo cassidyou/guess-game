@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.1ddb5a1d.css",
-    "main.js": "/static/js/main.3316058f.js",
-    "static/js/453.2165ce42.chunk.js": "/static/js/453.2165ce42.chunk.js",
-    "static/media/lobster.jpg": "/static/media/lobster.43bbcbdcf736a75aa982.jpg",
-    "static/media/dolphin.jpg": "/static/media/dolphin.5cb61a16680997168a0d.jpg",
-    "static/media/starfish.jpg": "/static/media/starfish.72306ab85ba5ca59c9ae.jpg",
-    "index.html": "/index.html",
-    "main.1ddb5a1d.css.map": "/static/css/main.1ddb5a1d.css.map",
-    "main.3316058f.js.map": "/static/js/main.3316058f.js.map",
-    "453.2165ce42.chunk.js.map": "/static/js/453.2165ce42.chunk.js.map"
+    "main.css": "/guess-game/static/css/main.1ddb5a1d.css",
+    "main.js": "/guess-game/static/js/main.ce631c27.js",
+    "static/js/453.2165ce42.chunk.js": "/guess-game/static/js/453.2165ce42.chunk.js",
+    "static/media/lobster.jpg": "/guess-game/static/media/lobster.43bbcbdcf736a75aa982.jpg",
+    "static/media/dolphin.jpg": "/guess-game/static/media/dolphin.5cb61a16680997168a0d.jpg",
+    "static/media/starfish.jpg": "/guess-game/static/media/starfish.72306ab85ba5ca59c9ae.jpg",
+    "index.html": "/guess-game/index.html",
+    "main.1ddb5a1d.css.map": "/guess-game/static/css/main.1ddb5a1d.css.map",
+    "main.ce631c27.js.map": "/guess-game/static/js/main.ce631c27.js.map",
+    "453.2165ce42.chunk.js.map": "/guess-game/static/js/453.2165ce42.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1ddb5a1d.css",
-    "static/js/main.3316058f.js"
+    "static/js/main.ce631c27.js"
   ]
 }
