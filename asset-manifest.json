@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/guess-game/static/css/main.59093024.css",
-    "main.js": "/guess-game/static/js/main.a8d6bbf4.js",
+    "main.js": "/guess-game/static/js/main.de5c3557.js",
     "static/js/453.2165ce42.chunk.js": "/guess-game/static/js/453.2165ce42.chunk.js",
     "static/media/lobster.jpg": "/guess-game/static/media/lobster.43bbcbdcf736a75aa982.jpg",
     "static/media/dolphin.jpg": "/guess-game/static/media/dolphin.5cb61a16680997168a0d.jpg",
     "static/media/starfish.jpg": "/guess-game/static/media/starfish.72306ab85ba5ca59c9ae.jpg",
     "index.html": "/guess-game/index.html",
     "main.59093024.css.map": "/guess-game/static/css/main.59093024.css.map",
-    "main.a8d6bbf4.js.map": "/guess-game/static/js/main.a8d6bbf4.js.map",
+    "main.de5c3557.js.map": "/guess-game/static/js/main.de5c3557.js.map",
     "453.2165ce42.chunk.js.map": "/guess-game/static/js/453.2165ce42.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.59093024.css",
-    "static/js/main.a8d6bbf4.js"
+    "static/js/main.de5c3557.js"
   ]
 }
